@@ -8,7 +8,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new-commit":"git init && git add . && git commit -m $* && git push origin master",
+    "commit":"git add . && git commit -m $* && git push origin master"
   },
   "author": "",
   "license": "ISC"
