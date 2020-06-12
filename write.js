@@ -1,7 +1,7 @@
 
 const {MongoClient}=require('mongodb');
 
-
+//url for mongodb
 const URL="mongodb://localhost:27017";
 
 
