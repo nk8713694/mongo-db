@@ -1,0 +1,15 @@
+{
+  "name": "mongo-basics",
+  "version": "1.0.0",
+  "description": "mongod --help\r // this will help to understand that mongo db is insatlled or not on ur machine",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^3.5.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
